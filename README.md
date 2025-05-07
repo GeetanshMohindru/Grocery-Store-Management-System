@@ -1,11 +1,5 @@
 # 🛒 Grocery Store Management System
 
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Project-Active-brightgreen)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-blue)
-![MySQL](https://img.shields.io/badge/Database-MySQL-yellow)
-![PHPMyAdmin](https://img.shields.io/badge/Tool-PHPMyAdmin-orange)
-
 ## 📌 Overview
 
 The **Grocery Store Management System** is a full-stack web application designed to streamline the daily operations of a grocery store. It enables store owners and employees to manage inventory, sales, user roles, and reporting efficiently — all from a centralized dashboard.
