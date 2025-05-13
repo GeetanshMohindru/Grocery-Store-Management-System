@@ -115,7 +115,7 @@ Grocery-Store-Management-System/
 ## 👨‍💻 Author
 
 **Geetansh Mohindru**  
-📫 [Email Me](geetanshmohindru@gmail.com)  
+📫 [Email](mailto:geetanshmohindru@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/geetansh-mohindru/) 
 
 ---
